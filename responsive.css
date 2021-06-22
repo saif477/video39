@@ -1,0 +1,283 @@
+@media (max-width:1400px) {
+    .mid-content{
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+}
+
+@media (max-width:1030px) {
+    .logo img {
+        height: 44px;
+        margin-right: 10px;
+        margin-left: 20px;
+        margin-top: 8px;
+    }
+    .primary-menu ul li a {
+        font-size: 13px;
+    }
+    .logo span {
+        font-size: 20px;
+    }
+    .header-btn {
+        padding: 10px 15px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width:890px) {
+    .primary-menu ul li a {
+        padding: 0 10px;
+    }
+    .logo img {
+        height: 35px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 13px;
+    }
+    .logo span {
+        margin-top: 21px;
+    }
+    .logo span {
+        font-size: 15px;
+    }
+    .header-btn {
+        padding: 8px 12px;
+        margin-top: 16px;
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width:715px) {
+    .header-logo {
+        width: 100%;
+        margin-left: 70px;
+    }
+    .logo img {
+        margin-left: 150px;
+    }
+    .header-menu {
+        width: 80%;
+    }
+    .primary-menu ul {
+        margin-left: 10px;
+    }
+    .primary-menu ul li a {
+        padding: 0 5px;
+    }
+    .header-button {
+        text-align: left;
+    }
+    .header-btn {
+        font-size: 7px;
+    }
+
+    /* banner */
+
+    .banner-content h2 {
+        font-size: 45px;
+        
+    }
+    .default-btn {
+        color: #e879b7;
+        padding: 14px 18px;
+        background: #a9ffe7;
+        font-size: 18px;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .video-content-right h3 {
+        font-size: 30px;
+        margin-bottom: 14px;
+        margin-top: 20px;
+        margin-left: 31px;
+    }
+    .section-title h1 {
+        font-size: 42px;
+       
+    }
+    .service-box {
+        width: 100%;
+    }
+    .section-title h2 {
+        font-size: 35px;
+    }
+    .pricing-table-item {
+        width: 100%;
+    }
+    .team-section .section-title h2 {
+        font-size: 30px;
+    }
+    .member {
+        width: 48%;
+    }
+    .section-title.newslatter-title h2 {
+        
+        font-size: 35px;
+    }
+    .default-input {
+        padding: 15px 15px;
+    }
+    .submit-btn {
+        padding: 12px 90px;
+        
+    }
+    .i-item {
+        width: 100%;
+       
+    }
+    .content-left-map {
+        width: 100%;
+    }
+    .content-right-form {
+        width: 100%;
+      
+    }
+    .footer p {
+        font-size: 14px;
+    }
+    .submit-btn {
+      
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:460px){
+    .logo img {
+        margin-left: 90px;
+    }
+    .logo span {
+        margin-top: 21px;
+    }
+    .header-logo {
+        width: 90%;
+        margin-left: 25px;
+    }
+    .header-btn {
+        padding: 8px 20px;
+        margin-top: 0px;
+    }
+    .header-menu {
+        width: 100%;
+    }
+    .primary-menu ul {
+        margin-left: 60px;
+    }
+    .primary-menu ul li a {
+        padding: 0 0px;
+        font-size: 10px;
+    }
+    .header-button {
+        width: 100%;
+        margin-left: 155px;
+    }
+    /* banner */
+
+    .header-section {
+        
+        position: absolute;
+        
+    }
+    .banner-content h3 {
+        font-size: 20px;
+    }
+    .banner-content h2 {
+        font-size: 30px;
+        margin: 20px 0;
+    }
+
+    .default-btn {
+        margin-bottom: 12px;
+    }
+    .section-title h1 {
+        font-size: 30px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+    }
+    .section-title p {
+        font-size: 22px;
+    }
+    .p-content ul li {
+        font-size: 9px;
+    }
+    .p-content ul li span {
+        font-size: 20px;
+    }
+    .default-btn {
+        
+        font-size: 15px;
+    }
+    .member {
+        width: 100%;
+    }
+    .i-item {
+        width: 100%;
+        
+    }
+    .content-left-map {
+        width: 100%;
+    }
+    .content-right-form {
+        width: 100%;
+    }
+    .content-right-form p {
+        font-size: 15px;
+    }
+    .submit-btn {
+        padding: 8px 43px;
+        font-size: 15px;
+    }
+    .footer p {
+        font-size: 10px;
+    }
+    .bt-content p {
+        
+        font-size: 15px;
+        line-height: 1.9em;
+    }
+    .submit-btn {
+        
+        margin-top: 15px;
+    }
+    .default-input {
+        width: 290px;
+        padding: 15px 15px;
+       
+    }
+    .blog-post-content h3 {
+        font-size: 18px;
+        margin-left: 25px;
+    }
+    .blog-post-content p {
+      
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+}
+
+@media (max-width:320px){
+    .logo span {
+        margin-top: 12px;
+        margin-left: 50px;
+    }
+    .primary-menu ul li a {
+        padding: 0 0px;
+        font-size: 6px;
+        line-height: 40px;
+    }
+    .header-button {
+        margin-left: 80px;
+    }
+    .bt-content p {
+       
+        font-size: 10px;
+        line-height: 1.9em;
+    }
+}
